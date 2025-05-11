@@ -1,0 +1,17 @@
+{
+  "name": "src",
+  "type": "directory",
+  "children": [
+    {
+      "name": "images",
+      "type": "directory",
+      "children": [
+        {
+          "name": "bible",
+          "type": "directory",
+          "fileCount": 20
+        }
+      ]
+    }
+  ]
+}
