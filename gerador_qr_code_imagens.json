@@ -1,23 +1,28 @@
 [
   {
     "uri": "https://cdn-icons-png.flaticon.com/512/226/226235.png",
+    "label":"https://cdn-icons-png.flaticon.com/512/226/226235.png",
     "premium": false
   },
   {
     "personalizada": true,
     "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbn1OqWn7mgl9whhU8H6uYS36tX64-yKzUXg&s",
+    "label": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbn1OqWn7mgl9whhU8H6uYS36tX64-yKzUXg&s",
     "premium": true
   },
   {
     "uri": "https://www.citypng.com/public/uploads/preview/outline-whatsapp-wa-watsup-green-logo-icon-symbol-sign-png-701751695124303npsmzlcjyh.png",
+    "label":"https://www.citypng.com/public/uploads/preview/outline-whatsapp-wa-watsup-green-logo-icon-symbol-sign-png-701751695124303npsmzlcjyh.png"
     "premium": false
   },
   {
     "uri": "https://cdn-icons-png.freepik.com/256/15707/15707923.png?semt=ais_hybrid",
+    "label":"https://cdn-icons-png.freepik.com/256/15707/15707923.png?semt=ais_hybrid",
     "premium": false
   },
   {
     "uri": "https://cdn.creazilla.com/icons/7911986/facebook-icon-lg.png",
+    "label":"https://cdn.creazilla.com/icons/7911986/facebook-icon-lg.png",
     "premium": false
   }
 ]
